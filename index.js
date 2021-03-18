@@ -1,3 +1,5 @@
 // write your code below!
 var date = "holidays!"
-  function 
+  function happyHolidays
+  console.log("happy " + date)
+  
